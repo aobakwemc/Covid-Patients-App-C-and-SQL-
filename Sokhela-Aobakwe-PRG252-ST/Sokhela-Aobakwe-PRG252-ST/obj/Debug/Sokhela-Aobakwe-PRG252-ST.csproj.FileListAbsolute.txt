@@ -1,0 +1,11 @@
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\bin\Debug\Sokhela-Aobakwe-PRG252-ST.exe.config
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\bin\Debug\Sokhela-Aobakwe-PRG252-ST.exe
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\bin\Debug\Sokhela-Aobakwe-PRG252-ST.pdb
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.csproj.AssemblyReference.cache
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.csproj.SuggestedBindingRedirects.cache
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela_Aobakwe_PRG252_ST.Form1.resources
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela_Aobakwe_PRG252_ST.Properties.Resources.resources
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.csproj.GenerateResource.cache
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.csproj.CoreCompileInputs.cache
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.exe
+C:\Users\aobak\Desktop\Belgium IT\2nd Year Modules\Programming 252\Assignments\Sokhela-Aobakwe-PRG252-ST\Sokhela-Aobakwe-PRG252-ST\obj\Debug\Sokhela-Aobakwe-PRG252-ST.pdb
